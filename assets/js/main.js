@@ -1,5 +1,5 @@
 /*
-Template Name: Appvilla - Creative Landing Page HTML Template.
+Template Name: Echo - Creative Landing Page HTML Template.
 Author: GrayGrids
 */
 
