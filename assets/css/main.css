@@ -9,6 +9,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.title-logo {
+  color: white;
+}
+
 body {
   font-family: "Inter", sans-serif;
   font-weight: normal;
